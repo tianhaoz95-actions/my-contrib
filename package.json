@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tianhaoz95-actions/my-contrib/issues"
   },
-  "homepage": "https://github.com/tianhaoz95-actions/my-contrib#readme"
+  "homepage": "https://github.com/tianhaoz95-actions/my-contrib#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
 }
