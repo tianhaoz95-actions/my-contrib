@@ -1,0 +1,19 @@
+{
+  "name": "my-contrib",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianhaoz95-actions/my-contrib.git"
+  },
+  "author": "Tianhao Zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tianhaoz95-actions/my-contrib/issues"
+  },
+  "homepage": "https://github.com/tianhaoz95-actions/my-contrib#readme"
+}
